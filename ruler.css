@@ -1,0 +1,8 @@
+body{background-image:url(/01002o08-3c61.jpeg)}
+body{background-attachment: fixed;}
+a{ text-decoration: none;
+color: darkred;}
+a:link{text-decoration-color:indigo;}
+a:visited{color: maroon;}
+a:hover{color: gold;font-size:larger;}
+a:active{opacity:0,5;}
